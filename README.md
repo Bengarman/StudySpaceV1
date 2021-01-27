@@ -1,2 +1,2 @@
-###Student Study Timetable Appp
+Student Study Timetable Appp
 ================
